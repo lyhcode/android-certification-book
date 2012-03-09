@@ -8,6 +8,7 @@
    @latex_font_size: 11pt
    @latex_logo: img/logo.eps
    @latex_contentsname: 目錄
+   @html_theme: nature
    @epub_theme: epub_simple
    @mobi_theme: mobi_simple
    @pdf_cover: cover.tex
